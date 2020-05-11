@@ -11,4 +11,4 @@ Good Luck!
 
 
 P.S.
-I got the idea to make this version thanks to Al Sweigart(al@inventwithpython.com). I also used snippets of his code from the game found here: http://inventwithpython.com/pygame
+I got the idea to make this version thanks to Al Sweigart(al@inventwithpython.com). I also used snippets of his code from the game found here: http://inventwithpython.com/pygame/chapter6.html#
