@@ -1,4 +1,10 @@
 # snake_game
+
+### Try it out!
+1. Copy the code from https://raw.githubusercontent.com/sajal1123/Snake-Game/master/snake_game.py
+2. Paste it in the code editor at https://trinket.io/library/trinkets/create?lang=pygame
+3. Click Run to play the game.
+
 A classic game we all love to play! You control a snake as he makes his way through obstacles to eat as much food as possible.
 
 The rules of the game are simple:
