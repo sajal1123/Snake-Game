@@ -5,8 +5,8 @@ from pygame.locals import *
 
 
 FPS = 15
-WINDOWWIDTH = 1500
-WINDOWHEIGHT = 750
+WINDOWWIDTH = 735
+WINDOWHEIGHT = 585
 CELLSIZE = 15
 assert WINDOWWIDTH % CELLSIZE == 0, "Window width must be a multiple of cell size."
 assert WINDOWHEIGHT % CELLSIZE == 0, "Window height must be a multiple of cell size."
